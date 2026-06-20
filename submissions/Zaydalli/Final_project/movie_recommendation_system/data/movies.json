@@ -1,0 +1,42 @@
+[
+    {
+        "movie_id": "1",
+        "title": "Inception",
+        "category": "Sci-Fi",
+        "year": 2010,
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+        "average_rating": 5.0
+    },
+    {
+        "movie_id": "2",
+        "title": "The Dark Knight",
+        "category": "Action",
+        "year": 2008,
+        "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "average_rating": 4.9
+    },
+    {
+        "movie_id": "3",
+        "title": "Interstellar",
+        "category": "Sci-Fi",
+        "year": 2014,
+        "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+        "average_rating": 4.7
+    },
+    {
+        "movie_id": "4",
+        "title": "The Matrix",
+        "category": "Sci-Fi",
+        "year": 1999,
+        "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+        "average_rating": 4.8
+    },
+    {
+        "movie_id": "5",
+        "title": "Avengers: Endgame",
+        "category": "Action",
+        "year": 2019,
+        "description": "After the devastating events of Infinity War, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+        "average_rating": 4.6
+    }
+]

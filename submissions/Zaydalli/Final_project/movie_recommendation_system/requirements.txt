@@ -1,0 +1,2 @@
+# No external dependencies required for this project!
+# This application uses standard Python libraries only (json, os, sys, uuid, datetime).
