@@ -1,2 +1,0 @@
-# Store Manager — staff data
-id|name|role|salary|phone

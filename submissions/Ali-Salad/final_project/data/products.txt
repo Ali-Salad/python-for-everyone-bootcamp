@@ -1,2 +1,0 @@
-# Store Manager — products data
-id|name|category|price|quantity|supplier
